@@ -65,9 +65,9 @@ According to the analysis of average revenue and profit across different custome
 
 ### QUANTITY OF PRODUCT SOLD BY PRODUCT CATEGORY
 
-![](Product_Quantity_table.png)                             |![](Product_Quantity_Visual.png)
-:-----------------------------------------------------------|---------------------------------------------------------------:
-AVERAGE PROFIT & REVENUE BY SEGMENT TABLE                   |        AVERAGE PROFIT & REVENUE BY SEGMENT VISUALISATION
+![](Product_Quantity_table.png)                                      |![](Product_Quantity_Visual.png)
+:--------------------------------------------------------------------|-----------------------------------------------------------------:
+QUANTITY OF PRODUCT SOLD BY PRODUCT CATEGORY TABLE                   |        QUANTITY OF PRODUCT SOLD BY PRODUCT CATEGORY VISUALISATION
 
 
 "Technology" has the lowest sales (6,939 units sold), while "Office Supplies" has the highest number of sales (22,906 units sold). Based on this, "Office Supplies" has the highest sales, outselling "Furniture" and "Technology" by a wide margin, making it the best-selling product category, while "Technology" has the lowest sales, indicating that it is the least popular product category in terms of unit sales.
@@ -77,4 +77,51 @@ AVERAGE PROFIT & REVENUE BY SEGMENT TABLE                   |        AVERAGE PRO
 - The superstore can explore measures that will boost sales in the "Technology" area, or it may concentrate on optimising its supplies and marketing for the more popular "Office Supplies" category.
 
 ## CUSTOMER RETENTION RATE
+
+![](customer_retention_table.png)                             |![](customer_retention_visual.png)
+:-------------------------------------------------------------|---------------------------------------------------------------:
+CUSTOMER RETENTION RATE TABLE                                 |       CUSTOMER RETENTION RATE VISUALISATION
+
+The analysis identified the following: 
+- In 2015, the store retained 30.14% of its consumer customers, 28.14% of its home office customers, and 29.54% of its corporate customers from the Year 2014.
+- In 2016, the store retained 33.84% of its consumer customers, 35.18% of its home office clients, and 35.39% of its corporate customers from the Year 2015.
+- In 2017, the store retained 36.01% of its consumer customers, 36.68% of its home office customers, and 35.07% of its corporate customers from the Year 2016.
+These figures show the proportion of customers that made further purchases or stayed with the store from one year to the next. According to the data, the store's customer retention rates have increased over time, with the highest retention rates occurring in the most recent year period (2016-2017). This demonstrates that the higher the retention rate, the better the store's ability to keep its consumers over time as a higher customer retention rate is considered to be advantageous since it indicates customer loyalty and happiness.
+
+#### RECOMMENDATION
+
+- The store may continue to focus on enhancing customer loyalty to sustain this positive trend.
+
+## PROFIT MARGIN BY REGION
+
+![](profit_margin_region_table.png)                             |![](profit_margin_region_visual.png)
+:---------------------------------------------------------------|---------------------------------------------------------------:
+PROFIT MARGIN BY REGION TABLE                                   |       PROFIT MARGIN BY REGION VISUALISATION
+
+Regional factors such as economic conditions, customer behaviour, competition, and cost structures all contribute to the significant variations in profit margins across regions. The Central Region has a negative profit margin (-20.11%), indicating that the superstore is losing money in this area. This might be ascribed to issues such as economic difficulties, increased competition, and higher operational expenses in the Central area. The South Region has a positive profit margin (22.03%), indicating that the superstore is profitable in this area. This might be due to a variety of factors, including economic growth, cost efficiency, and alignment with local taste, which allows for premium pricing. The East Region has a high-profit margin (39.61%) due to the region's affluent demography, strong local economy, and efficient operations. The West Region boasts the highest profit margin (58.47%), which may be ascribed to factors such as a high cost of living, high demand for technology and innovation as it is the hub for technology and innovation in the US and strict cost-control methods. Regional profit margin variances are primarily impacted by a combination of economic, competitive, and operational factors that influence consumer spending, cost management, and pricing tactics. 
+
+#### RECOMMENDATION
+Understanding and reacting to these regional patterns is critical for the overall financial performance of the superstore.
+
+## TOTAL PROFIT BY MONTH ACROSS THE FOUR-YEAR PERIOD
+
+![](Seasonal_trend_table.png)                                 |![](Seasonal_trend_visual.png)
+:-------------------------------------------------------------|---------------------------------------------------------------:
+TOTAL PROFIT BY MONTH TABLE                                   |       TOTAL PROFIT BY MONTH VISUALISATION
+
+The numbers from 2014 to 2017 may demonstrate a regular pattern in which the Superstore makes more money during the holiday season (November and December) and somewhat less money in the early months of the year (January and February). Typically, the year begins with reduced earnings in January and February, followed by a big boost in profit in March, probably owing to the conclusion of the fiscal year and increased sales. Profit is largely stable in April but rises in May, probably as a result of spring and early summer sales. Profit decreased somewhat in June, but it remained consistent in July. Profit begins to increase again in August and continues to rise in September and October, probably owing to back-to-school purchasing and early holiday preparations. Profit peaks are often attained in November and December, which corresponds to the holiday buying season.
+
+##### SEASONAL TREND
+The analysis shows a clear seasonal pattern, with the highest earnings recorded in November and December, most likely as a result of Christmas shopping. There was also a rise in profit in the spring and early summer (March to May) which was probably due to customers refurbishing their houses and preparing for the summer season. The autumn season (September to October) also experienced an increase, which may be linked to back-to-school buying.
+
+#### RECOMMENDATION
+- By using the observed seasonal trends, the store can design promotions, marketing campaigns, and inventory management tactics to maximise revenue during peak months.
+- It should ensure that it has enough inventory and manpower to handle the increased demand throughout the holiday season.
+- During the slower months, strategies for reducing costs can be used to successfully control expenditures.
+
+## TOTAL REVENUE AND REVENUE GROWTH RATE OVER THE YEARS
+
+![](Seasonal_trend_table.png)                                 |![](Seasonal_trend_visual.png)
+:-------------------------------------------------------------|---------------------------------------------------------------:
+TOTAL PROFIT BY MONTH TABLE                                   |       TOTAL PROFIT BY MONTH VISUALISATION
 
