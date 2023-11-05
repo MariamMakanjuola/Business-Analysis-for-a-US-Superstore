@@ -8,7 +8,14 @@ Let's go on a journey through the data to discover what story it tells about the
 
 *_Disclaimer_*: _All datasets used are dummy datasets and do not represent any company or institution._
 
-## PROBLEM STATEMENT
+
+## KEY PERFORMANCE INDICATORS (KPIs)
+
+![](KPIs_by_year.png)     
+:-----------------------------------------------------------:
+![](KPIs_by_segments.png)            
+
+## BUSINESS QUESTIONS
 
 1.	What is the distribution of total sales and profit across different product categories?
 2.	How do sales and profit differ across the different customer segments?
@@ -32,7 +39,7 @@ This data was obtained from the US Superstore Dataset in the Data Analytics Coho
 
 The data provided was clean but it was transformed to accommodate some information required to elaborate the analysis carried out using the existing in the information in the dataset.
 
-## ANALYSIS & VISUALISATION
+## ANALYSIS, VISUALISATION & BUSINESS INSIGHTS
 
 ### TOTAL REVENUE AND PROFIT BY PRODUCT CATEGORY
 
@@ -121,7 +128,16 @@ The analysis shows a clear seasonal pattern, with the highest earnings recorded 
 
 ## TOTAL REVENUE AND REVENUE GROWTH RATE OVER THE YEARS
 
-![](Seasonal_trend_table.png)                                 |![](Seasonal_trend_visual.png)
+![](Projected_sales_table.png)                                |![](Projected_sales_visual.png)
 :-------------------------------------------------------------|---------------------------------------------------------------:
-TOTAL PROFIT BY MONTH TABLE                                   |       TOTAL PROFIT BY MONTH VISUALISATION
+TOTAL REVENUE AND REVENUE GROWTH RATE TABLE                    |       TOTAL REVENUE AND REVENUE GROTH RATE VISUALISATION
 
+The Superstore's overall income changed over the four-year period from 2014 to 2017. Revenue fell slightly between 2014 and 2015 with a -3% growth rate. In 2016, there was significant revenue growth of 29% growth rate, which was followed by another boom year in 2017 with a 20% growth rate. For these years, the average yearly sales increase was 16%. Despite a slight decline in 2015, the store managed to accomplish four years of positive sales growth, with a significant increase in 2016 and 2017 which could be linked to successful strategies, including effective marketing campaigns, product offerings, or customer engagement. In 2018, revenues are expected to total $848,074.05. This projection is based on historical growth rates and averages of the previous years.
+
+#### RECOMMENDATION
+
+To sustain and expand on this performance, the Store should consider: 
+- identifying and repeating specific variables that led to growth in 2016 and 2017;
+- investing in customer acquisition and retention initiatives;
+- tracking market developments and consumer preferences in order to alter product offers as needed;
+- maintaining profitability by focusing on operational efficiency and cost control.
