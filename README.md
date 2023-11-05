@@ -1,9 +1,9 @@
-# BUSINESS-ANALYSIS-FOR-A-US-SUPERSTORE
+# SALES AND PERFORMANCE ANALYSIS FOR Y SUPERSTORE IN THE UNITED STATES (2014-2017)
 
-![](KPIs_by_year.png)  
+![](superstore.jpg)  
 
 ## INTRODUCTION
-This business report gives a comprehensive review of a renowned US Superstore's performance and trends from 2014 to 2017. The analysis, which draws on a range of data gathered over four years, provides significant insights into the superstore's operations, sales, profitability, customer segments, and regional dynamics. We will obtain a deeper understanding of the superstore's business landscape and have the ability to make data-driven decisions that can promote future success by meticulously evaluating the data.
+This business report gives a comprehensive review of a renowned US Superstore's performance and trends from 2014 to 2017. The analysis, which draws on a range of data gathered over four years, provides significant insights into the superstore's operations, sales, profitability, customer segments, and regional dynamics. This will allow us to obtain a deeper understanding of the superstore's business landscape and have the ability to make data-driven decisions that can promote future success by meticulously evaluating the data.
 I looked into multiple aspects of the superstore's operations throughout this analysis, throwing light on its strengths and areas for improvement. The analysis gives a vivid picture of the superstore's journey throughout the years, from measuring sales and profit trends to evaluating consumer segmentation and regional success.
 This report aims to not only offer a retrospective picture of previous performance and a framework for future strategic planning for the superstore but also to demonstrate my skills in data analysis and interpretation utilising Excel formulae and functions. By understanding the patterns and insights obtained from this data, I am able to assist the US Superstore in making educated decisions to boost its competitiveness, improve customer happiness, and promote continuous development in the ever-changing retail market.
 Let's go on a journey through the data to discover what story it tells about the performance and potential of the US Superstore.
@@ -45,6 +45,7 @@ The data provided was clean but it was transformed to accommodate some informati
 
 ### TOTAL REVENUE AND PROFIT BY PRODUCT CATEGORY
 
+
 ![](Profit_Sales_Product_Table.png)                         |![](Profit_Sales_Product_Visual.png)
 :-----------------------------------------------------------|---------------------------------------------------------------:
 TOTAL PROFIT & REVENUE BY PRODUCT CATEGORY TABLE            |        TOTAL PROFIT & REVENUE BY PRODUCT CATEGORY VISUALISATION
@@ -58,6 +59,7 @@ TOTAL PROFIT & REVENUE BY PRODUCT CATEGORY TABLE            |        TOTAL PROFI
 - It is also important to keep an eye on market trends and client preferences in each area when making data-driven decisions as having an understanding of client wants and modifying product offerings to meet those needs can lead to long-term growth.
 
 ### AVERAGE REVENUE AND PROFIT BY SEGMENTS
+
 
 ![](Average_Profit_Sales_Segment_Table.png)                 |![](Average_Profit_Sales_Segment_Visual.png)
 :-----------------------------------------------------------|---------------------------------------------------------------:
@@ -74,6 +76,7 @@ According to the analysis of average revenue and profit across different custome
 
 ### QUANTITY OF PRODUCT SOLD BY PRODUCT CATEGORY
 
+
 ![](Product_Quantity_table.png)                                      |![](Product_Quantity_Visual.png)
 :--------------------------------------------------------------------|-----------------------------------------------------------------:
 QUANTITY OF PRODUCT SOLD BY PRODUCT CATEGORY TABLE                   |        QUANTITY OF PRODUCT SOLD BY PRODUCT CATEGORY VISUALISATION
@@ -85,7 +88,8 @@ QUANTITY OF PRODUCT SOLD BY PRODUCT CATEGORY TABLE                   |        QU
 
 - The superstore can explore measures that will boost sales in the "Technology" area, or it may concentrate on optimising its supplies and marketing for the more popular "Office Supplies" category.
 
-## CUSTOMER RETENTION RATE
+### CUSTOMER RETENTION RATE
+
 
 ![](customer_retention_table.png)                             |![](customer_retention_visual.png)
 :-------------------------------------------------------------|---------------------------------------------------------------:
@@ -101,7 +105,8 @@ These figures show the proportion of customers that made further purchases or st
 
 - The store may continue to focus on enhancing customer loyalty to sustain this positive trend.
 
-## PROFIT MARGIN BY REGION
+### PROFIT MARGIN BY REGION
+
 
 ![](profit_margin_region_table.png)                             |![](profit_margin_region_visual.png)
 :---------------------------------------------------------------|---------------------------------------------------------------:
@@ -112,7 +117,8 @@ Regional factors such as economic conditions, customer behaviour, competition, a
 #### RECOMMENDATION
 Understanding and reacting to these regional patterns is critical for the overall financial performance of the superstore.
 
-## TOTAL PROFIT BY MONTH ACROSS THE FOUR-YEAR PERIOD
+### TOTAL PROFIT BY MONTH ACROSS THE FOUR-YEAR PERIOD
+
 
 ![](Seasonal_trend_table.png)                                 |![](Seasonal_trend_visual.png)
 :-------------------------------------------------------------|---------------------------------------------------------------:
@@ -128,7 +134,8 @@ The analysis shows a clear seasonal pattern, with the highest earnings recorded 
 - It should ensure that it has enough inventory and manpower to handle the increased demand throughout the holiday season.
 - During the slower months, strategies for reducing costs can be used to successfully control expenditures.
 
-## TOTAL REVENUE AND REVENUE GROWTH RATE OVER THE YEARS
+### TOTAL REVENUE AND REVENUE GROWTH RATE OVER THE YEARS
+
 
 ![](Projected_sales_table.png)                                |![](Projected_sales_visual.png)
 :-------------------------------------------------------------|---------------------------------------------------------------:
@@ -145,7 +152,7 @@ To sustain and expand on this performance, the Store should consider:
 - maintaining profitability by focusing on operational efficiency and cost control.
 
 
-## CONCLUSION
+## CONCLUSION AND RECOMMENDATION
 Ultimately, the analysis of the data from the US Superstore from 2014 to 2017 identified important insights into its performance, consumer behaviour, and geographical variances. The following are the important findings from the dataset:
 
 - **Sales and Profit by Product Category:** Office Supplies and Technology are the Superstore's highest profit contributors, with Furniture behind in both profit and revenue.
